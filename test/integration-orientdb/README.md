@@ -1,4 +1,4 @@
-# sails-orientdb specific Integration Tests
+# waterline-orientdb specific Integration Tests
 
 `waterline-adapter-tests` provide a good layer of basic coverage for adapters.  Since usage is standarized, tests are highly reusable.
 
